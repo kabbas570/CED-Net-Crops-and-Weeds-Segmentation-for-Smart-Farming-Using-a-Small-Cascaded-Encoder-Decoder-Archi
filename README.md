@@ -13,11 +13,17 @@ such small networks. The section that follows explains the network architecture 
 ## Rsults and Comparisons
 ###Rice Seeding and Weed Segmentation Dataset
 ![Figure_4](https://user-images.githubusercontent.com/56618776/98434314-e54b2580-2111-11eb-98bd-268b92bba7c6.png)
+
 ###BoniRob Dataset
+
 ![Figure_5](https://user-images.githubusercontent.com/56618776/98434315-e7ad7f80-2111-11eb-946d-d73e8c72b588.png)
+
 ###Carrot Crop and Weed
+
 ![Figure_6](https://user-images.githubusercontent.com/56618776/98434317-e9774300-2111-11eb-9640-6e1fd8d85e02.png)
+
 ###Paddy-Millet Datase
+
 ![Figure_7](https://user-images.githubusercontent.com/56618776/98434321-ebd99d00-2111-11eb-827b-9f06aa6f62b9.png)
 
 
