@@ -27,3 +27,18 @@ such small networks. The section that follows explains the network architecture 
 ![Figure_7](https://user-images.githubusercontent.com/56618776/98434321-ebd99d00-2111-11eb-827b-9f06aa6f62b9.png)
 
 
+#Citation Request
+If you use CED-Net in your project, please cite the following paper
+
+@article{https://www.mdpi.com/2079-9292/9/10/1602,
+  title={CED-Net: Crops and Weeds Segmentation for Smart
+Farming Using a Small Cascaded
+Encoder-Decoder Architecture},
+  author={Abbas Khan,Talha Ilyas Muhammad Umraiz, Zubaer Ibna Mannan and
+Hyongsuk Kim },
+  journal={MDPI Electronics},
+  volume={9},
+ 
+  year={2020},
+  publisher={Elsevier}
+}
