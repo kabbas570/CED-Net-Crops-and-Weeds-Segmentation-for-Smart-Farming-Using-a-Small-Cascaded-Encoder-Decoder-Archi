@@ -36,9 +36,8 @@ Farming Using a Small Cascaded
 Encoder-Decoder Architecture},
   author={Abbas Khan,Talha Ilyas Muhammad Umraiz, Zubaer Ibna Mannan and
 Hyongsuk Kim },
-  journal={MDPI Electronics},
+  journal={ Electronics},
   volume={9},
- 
   year={2020},
-  publisher={Elsevier}
+  publisher={MDPI}
 }
