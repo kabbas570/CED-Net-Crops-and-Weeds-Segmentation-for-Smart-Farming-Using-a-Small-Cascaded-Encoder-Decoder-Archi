@@ -32,12 +32,21 @@ If you use CED-Net in your project, please cite the following paper
 
 @article{https://www.mdpi.com/2079-9292/9/10/1602,
   title={CED-Net: Crops and Weeds Segmentation for Smart
+  
 Farming Using a Small Cascaded
+
 Encoder-Decoder Architecture},
+
   author={Abbas Khan,Talha Ilyas Muhammad Umraiz, Zubaer Ibna Mannan and
+  
 Hyongsuk Kim },
+
   journal={ Electronics},
+  
   volume={9},
+  
   year={2020},
+  
   publisher={MDPI}
+  
 }
